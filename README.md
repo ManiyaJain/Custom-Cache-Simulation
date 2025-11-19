@@ -16,14 +16,6 @@ This project simulates custom cache behavior using **HashMap** and **Deque (Link
 
 ---
 
-## 📁 Project Structure
-Custom-Cache-Simulation
-│── LRUCache.java
-│── Main.java
-│── README.md
-
----
-
 ## 🧠 How It Works
 
 ### ✔ HashMap  
